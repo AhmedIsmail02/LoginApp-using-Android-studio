@@ -1,0 +1,2 @@
+# LoginApp-using-Android-studio
+Java based code using android studio to implements a login page with a certain username "ahmed" and a certain password "1234" and the user is restricted to a certain number of wrong attempts '5' and if the user has entered the right username and password the Login-activity is changed to the user's activity which is a blank activity in this project otherwise the user will receive a message that he has entered wrong username or password
